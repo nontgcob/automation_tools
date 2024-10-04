@@ -1,0 +1,24 @@
+# Ignore these files and folders
+
+# macOS system metadata
+.DS_Store
+
+# Python virtual environment
+myenv/
+
+# data files (input, output, etc.)
+*.txt
+*.csv
+*.json
+*.pdf
+
+# particular files or folder you don't want to track
+participants/
+staff_and_instructors/
+
+# Log files
+*.log
+
+# Node.js dependencies
+node_modules/
+
